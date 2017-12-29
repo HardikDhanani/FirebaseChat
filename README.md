@@ -1,7 +1,7 @@
 # Firebase Chat
 This app is social network app like messenger with real time chat using firebase database. 
 
-# Using Libs
+# Use Libs
 1) Google/SignIn
 2) Facebook SDK
 3) Fabric
