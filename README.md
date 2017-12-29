@@ -1,7 +1,7 @@
-# FirebaseChat
+# Firebase Chat
 This app is social network app like messenger with real time chat using firebase database. 
 
-Using Libs
+# Using Libs
 1) Google/SignIn
 2) Facebook SDK
 3) Fabric
@@ -15,7 +15,7 @@ Using Libs
 11) Rechability
 12) Crashlytics
 
-Features
+# Features
 1) Firebase and Cloudinary services
 2) Sign In and Sign Up with Twitter, Facebook, Google+ and Email
 3) Real time conversations with other person
@@ -25,7 +25,7 @@ Features
 7) Edit & Delete profile 
 8) Create own group
 
-Setup will be need for run in device and simulator.
+# Setup will be need for run in device and simulator.
 1) Pod installation
 2) Set up pod file
 3) Update pod 
