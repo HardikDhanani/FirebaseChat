@@ -25,7 +25,7 @@ Features
 7) Edit & Delete profile 
 8) Create own group
 
-Some set up needed
+Setup will be need for run in device and simulator.
 1) Pod installation
 2) Set up pod file
 3) Update pod 
